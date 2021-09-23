@@ -3,5 +3,6 @@
 2. The values of the capacitors and inductors used in the converter are simply decided on the basis of maximum current and voltage respectivily. The load-end capacitor should used choosed on the basis of charging and discharging time of the RC circuit.
 3. Simulate it in MATLAB software.
 
-4. Then we have study about MPPT(Maximum power point trancking) techniques used in solar panels, using "".
+4. Then we studied about MPPT(Maximum power point trancking) techniques used in solar panels, using "Solar and boost pdf".
+5. We using MPPT techniques in the above converter.
  
